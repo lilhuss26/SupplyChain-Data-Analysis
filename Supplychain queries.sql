@@ -62,7 +62,7 @@ IGNORE 1 ROWS
 
 
 use supplychain;
--- Transportain
+
 select shipping_carriers,transportation_modes,count(transportation_modes) from supplychainfact
 group by shipping_carriers,transportation_modes;
 
