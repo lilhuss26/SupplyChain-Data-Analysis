@@ -78,8 +78,6 @@ HAVING carrier_count = (
         GROUP BY inner_fact.shipping_carriers
     ) AS subquery
 );
-
-
 select shipping_carriers,avg(shipping_costs),avg(shipping_times) from supplychain.supplychainfact
 group by shipping_carriers;
 -- Stock
