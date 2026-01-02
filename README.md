@@ -2,7 +2,7 @@
 
 > A comprehensive end-to-end data analysis project examining supply chain operations, from supplier management to customer delivery.
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Mysql-336791.svg)](https://www.Mysql.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627.svg)](https://www.tableau.com/)
 
