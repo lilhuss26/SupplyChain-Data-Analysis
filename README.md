@@ -198,11 +198,30 @@ Generated comprehensive analysis questions across five key areas:
 
 ---
 
+## 📊 Dashboard
+
+Our interactive Tableau dashboard provides comprehensive visualizations across four key areas of the supply chain:
+
+### Stock & Inventory Analysis
+![Stock Dashboard](./assets/stock.png)
+
+### Manufacturing Performance
+![Manufacturing Dashboard](./assets/manufactring.png)
+
+### Product & Sales Insights
+![Product Dashboard](./assets/product.png)
+
+### Transportation & Logistics
+![Transportation Dashboard](./assets/transportation.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
 Py-SQL-Tableau-Data_Analysis/
 │
+├── assets/                         # Dashboard screenshots
 ├── data/                           # Raw and processed data files
 ├── SupplyChainExploration.ipynb   # Python analysis notebook
 ├── Supplychain queries.sql        # SQL queries for analysis
