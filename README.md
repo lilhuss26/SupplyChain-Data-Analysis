@@ -8,22 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Supply Chain Cycle](#supply-chain-cycle)
-- [Tech Stack](#tech-stack)
-- [Project Workflow](#project-workflow)
-- [Data Dictionary](#data-dictionary)
-- [Analysis Questions](#analysis-questions)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Key Findings](#key-findings)
-- [Contributors](#contributors)
-
----
-
-## 🎯 Overview
+## Overview
 
 This project provides a deep dive into supply chain analytics, covering the entire lifecycle from raw material sourcing to final product delivery. Using a combination of Python for data cleaning and exploration, SQL for data modeling and querying, and Tableau for visualization, we analyze key performance indicators across manufacturing, warehousing, transportation, and sales.
 
@@ -49,7 +34,7 @@ Suppliers → Manufacturing → Warehousing → Distribution → Customers
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -63,7 +48,7 @@ Suppliers → Manufacturing → Warehousing → Distribution → Customers
 
 ---
 
-## 📈 Project Workflow
+## Project Workflow
 
 ### **Step 1: Data Quality Assessment**
 - ✅ Comprehensive data understanding
