@@ -33,6 +33,23 @@ Suppliers → Manufacturing → Warehousing → Distribution → Customers
 4. **Distribution**: Goods are transported from warehouses to customers
 
 ---
+## 📊 Dashboard
+
+Our interactive Tableau dashboard provides comprehensive visualizations across four key areas of the supply chain:
+
+### Stock & Inventory Analysis
+![Stock Dashboard](./assets/stock.png)
+
+### Manufacturing Performance
+![Manufacturing Dashboard](./assets/manufactring.png)
+
+### Product & Sales Insights
+![Product Dashboard](./assets/product.png)
+
+### Transportation & Logistics
+![Transportation Dashboard](./assets/transportation.png)
+
+---
 
 ## Tech Stack
 
@@ -195,24 +212,6 @@ Generated comprehensive analysis questions across five key areas:
 - Total time required per product
 
 </details>
-
----
-
-## 📊 Dashboard
-
-Our interactive Tableau dashboard provides comprehensive visualizations across four key areas of the supply chain:
-
-### Stock & Inventory Analysis
-![Stock Dashboard](./assets/stock.png)
-
-### Manufacturing Performance
-![Manufacturing Dashboard](./assets/manufactring.png)
-
-### Product & Sales Insights
-![Product Dashboard](./assets/product.png)
-
-### Transportation & Logistics
-![Transportation Dashboard](./assets/transportation.png)
 
 ---
 
