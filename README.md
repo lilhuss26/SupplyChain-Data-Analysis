@@ -220,9 +220,9 @@ Generated comprehensive analysis questions across five key areas:
 ```
 Py-SQL-Tableau-Data_Analysis/
 │
+├── EDA/                            # Exploration and anlysis with python
 ├── assets/                         # Dashboard screenshots
 ├── data/                           # Raw and processed data files
-├── SupplyChainExploration.ipynb   # Python analysis notebook
 ├── Supplychain queries.sql        # SQL queries for analysis
 ├── SupplyChain.twbx               # Tableau dashboard
 ├── Supply Chain Doc..md           # Project documentation
